@@ -1,11 +1,12 @@
 import React from 'react';
-import SignIn from "./components/SignIn";
+import Sign from "./components/sign";
+import Layout from "./components/layout/Layout";
 
 const App = () => {
   return (
-      <div>
-          <SignIn />
-      </div>
+      <Layout>
+          <Sign />
+      </Layout>
   );
 };
 
