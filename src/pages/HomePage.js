@@ -1,10 +1,13 @@
 import React from 'react';
+import Layout from "../components/layout/Layout";
+import ChoiceComponent from "./ChoiceComponent";
 
 const HomePage = () => {
     return (
-        <div>
-            
-        </div>
+        <Layout>
+            <h3>Home Page</h3>
+            <ChoiceComponent/>
+        </Layout>
     );
 };
 
