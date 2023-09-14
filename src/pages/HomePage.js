@@ -1,12 +1,12 @@
 import React from 'react';
-import Layout from "../components/Layout";
+import Layout from "../components/layout/Layout";
+import ChoiceComponent from "./ChoiceComponent";
 
 const HomePage = () => {
     return (
         <Layout>
-            <div className="container">
-                <h1>This Home page</h1>
-            </div>
+            <h3>Home Page</h3>
+            <ChoiceComponent/>
         </Layout>
     );
 };
