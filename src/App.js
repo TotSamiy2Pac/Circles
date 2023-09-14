@@ -1,11 +1,13 @@
 import React from 'react';
 import SignIn from "./components/SignIn";
+import {Route, Routes} from "react-router-dom";
+import HomePage from "./pages/HomePage";
 
 const App = () => {
   return (
-      <div>
-          <SignIn />
-      </div>
+      <Routes>
+          <Route path={'/'} element={<HomePage/>} />
+      </Routes>
   );
 };
 
