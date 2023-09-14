@@ -1,4 +1,4 @@
-import React from 'react';
+import ClubsTitle from "./components/clubsTitle";
 import {Route, Routes} from "react-router-dom";
 import HomePage from "./pages/HomePage";
 import Sign from "./components/sign";
@@ -7,6 +7,7 @@ import DevelopmentPage from "./pages/DevelopmentPage";
 import ArtPage from "./pages/ArtPage";
 import SportPage from "./pages/SportPage";
 import PosterPage from "./pages/PosterPage";
+import React from 'react';
 
 const App = () => {
   return (
