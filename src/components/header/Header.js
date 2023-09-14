@@ -6,6 +6,7 @@ const Header = () => {
             <h3>
                 LOGO
             </h3>
+
         </header>
     );
 };
