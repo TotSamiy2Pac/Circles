@@ -2,6 +2,8 @@ import React from 'react';
 import SignIn from "./components/SignIn";
 import {Route, Routes} from "react-router-dom";
 import HomePage from "./pages/HomePage";
+import Sign from "./components/sign";
+import Layout from "./components/layout/Layout";
 
 const App = () => {
   return (
