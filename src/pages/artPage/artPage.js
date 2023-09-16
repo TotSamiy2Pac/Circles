@@ -1,11 +1,12 @@
 import React from 'react';
-import Layout from "../components/layout/Layout";
+import './style.css';
+import Layout from "../../components/layout/layout";
 
 const ArtPage = () => {
     return (
         <div>
             <Layout>
-
+                iskusstvo
             </Layout>
         </div>
     );

@@ -1,0 +1,15 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+    align-items: center;
+}
+
+header a{
+    text-decoration: none;
+}
+
+.btn-wrapper{
+    display: flex;
+    gap: 20px;
+}

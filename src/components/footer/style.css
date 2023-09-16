@@ -1,0 +1,10 @@
+footer{
+    display: flex;
+    gap: 20px;
+    padding: 40px;
+}
+
+.link-wrapper{
+    display: flex;
+    gap: 20px;
+}
