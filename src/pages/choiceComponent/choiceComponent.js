@@ -14,21 +14,21 @@ const ChoiceComponent = () => {
                     </Link>
                 </div>
                 <div className={'col-6'}>
-                    <Link className={'post-wrapper'} to={`/choice/sport`}>
+                    <Link className={'post-wrapper'} to={`/choice/development`}>
                         <div className={'box post-box'}>
                             <h3>Спорт</h3>
                         </div>
                     </Link>
                 </div>
                 <div className={'col-6'}>
-                    <Link className={'post-wrapper'} to={`/choice/art`}>
+                    <Link className={'post-wrapper'} to={`/choice/development`}>
                         <div className={'box post-box'}>
                             <h3>Искусство</h3>
                         </div>
                     </Link>
                 </div>
                 <div className={'col-6'}>
-                    <Link className={'post-wrapper'} to={`/poster`}>
+                    <Link className={'post-wrapper'} to={`/choice/development`}>
                         <div className={'box post-box'}>
                             <h3>Афиша</h3>
                         </div>

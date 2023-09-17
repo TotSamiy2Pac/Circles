@@ -1,0 +1,24 @@
+.clubsWrapper {
+display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 40px;
+}
+.cardInfo {
+    display: flex;
+    width: 896px;
+    border-radius: 15px;
+    box-shadow: 13px 18px 14px 0px rgba(34, 60, 80, 0.3);
+    overflow: hidden;
+}
+.imgCarad img {
+    width: 327px;
+    height: 100%;
+}
+.titleCard {
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+
+}
