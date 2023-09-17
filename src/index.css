@@ -17,8 +17,23 @@ code {
     monospace;
 }
 
+main{
+  min-height: 100vh;
+}
+
+.container{
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
 .row{
   display: flex;
   flex-wrap: wrap;
   margin: 0 -15px;
 }
+
+.btnCreate {
+  background-color: #2e3d85!important;
+  color: #fff!important;
+}
+

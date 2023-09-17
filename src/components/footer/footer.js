@@ -5,8 +5,6 @@ const Footer = () => {
     return (
         <footer>
             <div>
-                KidZone - Lorem ipsum dolor sit amet, consectetur adipisicing elit. A aliquid culpa ex fugit, iste
-                libero magnam nesciunt nisi quidem quo.
                 <span>© 2023 KidZone</span>
             </div>
             <div className={'link-wrapper'}>
