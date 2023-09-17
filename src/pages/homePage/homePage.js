@@ -7,6 +7,10 @@ import Button from "../../components/buttons/button";
 const HomePage = () => {
     return (
         <Layout>
+            <р>
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi, repellat.
+            </р>
+            <h1>Lorem ipsum dolor sit amet.</h1>
             <h3>Home Page</h3>
             <div className={'btn-wrapper'}>
                 <Button
