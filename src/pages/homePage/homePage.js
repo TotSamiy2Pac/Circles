@@ -11,7 +11,7 @@ const HomePage = () => {
             <div className={'btn-wrapper'}>
                 <Button
                     name='Кружки и секции'
-                    color='black'
+                    color='green'
                 />
                 <Button
                     name='Семейный досуг'
