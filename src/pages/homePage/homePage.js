@@ -29,7 +29,7 @@ const HomePage = () => {
                         </div>
                         <div className="col-6">
                             <div className="box">
-                                <img src={boy} alt=""/>
+                                <img className={'boy'} src={boy} alt=""/>
                             </div>
                         </div>
                     </div>

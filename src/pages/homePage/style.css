@@ -20,3 +20,7 @@ h1 {
     flex-direction: column;
     gap: 20px;
 }
+.boy {
+    max-width: 100%;
+    object-fit: cover;
+}
